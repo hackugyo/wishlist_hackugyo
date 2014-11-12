@@ -25,3 +25,9 @@ dependencies {
 …
 
 ```
+
+Edit PROJECT/PATH/settings.gradle : 
+
+```
+include ':app', ':wishlist'
+```
